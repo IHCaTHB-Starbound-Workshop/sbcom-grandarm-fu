@@ -1,13 +1,11 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "^#5aa9d6;Fixes the Frackin Universe crit tooltip on Grand Armory bows.^reset;
-
-This mod is an optional patch, but requires Frackin Universe and Grand Armory to work.
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Fixes the Frackin Universe crit tooltip on Grand Armory bows.^reset;\n\nThis mod is an optional patch, but requires Frackin Universe and Grand Armory to work.\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Grand Armory-Frackin Universe compatibility patch",
-  "includes" : ["FrackinUniverse","GRANDARM.IHC"],
+  "includes" : ["FrackinUniverse", "GRANDARM.IHC"],
+  "link" : "steam://url/CommunityFilePage/837593165",
   "name" : "GRANDARM-FU.IHC",
-  "requires" : ["FrackinUniverse","GRANDARM.IHC"],
+  "requires" : ["FrackinUniverse", "GRANDARM.IHC"],
+  "steamContentId" : "837593165",
   "version" : "0.1"
 }
